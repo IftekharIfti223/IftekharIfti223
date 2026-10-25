@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Iftekharul Islam Ifti 👋
 
 💻 CSE Graduate | Web Developer | Data Science & AI Enthusiast
 I'm a Computer Science and Engineering graduate from East West University, Bangladesh, passionate about building web applications, exploring intelligent systems, and turning data into meaningful insights.
@@ -34,36 +34,10 @@ I enjoy learning new technologies, solving problems, and working on projects tha
 
 --> Tools & Technologies
 
-
-## 📌 Areas of Interest
-
---> Artificial Intelligence & Machine Learning
-
---> Data Science & Predictive Analytics
-
---> Web Application Development
-
---> Natural Language Processing
-
---> Data Visualization & Business Intelligence
-
-
 ## 📂 Featured Work
 
 I'm continuously developing my skills through academic research, practical projects, and hands-on experimentation.
 Check out my repositories to explore my work in programming, web development, data analytics, and machine learning.
-
-## 📈 My Goals
-
---> Build practical projects that solve real-world problems
-
---> Deepen my knowledge of Machine Learning and AI
-
---> Develop useful, responsive, and accessible web applications
-
---> Improve my data analytics and visualization skills
-
---> Collaborate with other developers and contribute to open-source projects
 
 ## 🤝 Let's Connect
 
